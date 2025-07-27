@@ -9,10 +9,11 @@ It's a beginner-level project but really helped me understand how classes, objec
 
 ## 🔧 What it Can Do
 
-- Create a bank account
+- choose the language you are comfortable with(bilingual support english\tamil)
 - Deposit money
 - Withdraw money (with balance check)
 - Show current balance
+- check if the entered is correct or not before performing any actions
 - All actions happen in the terminal
 
 ---
